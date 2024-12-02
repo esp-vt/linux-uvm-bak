@@ -1,0 +1,5 @@
+/usr/src/nvidia-550.127.05/nvidia.o
+/usr/src/nvidia-550.127.05/nvidia-uvm.o
+/usr/src/nvidia-550.127.05/nvidia-modeset.o
+/usr/src/nvidia-550.127.05/nvidia-drm.o
+/usr/src/nvidia-550.127.05/nvidia-peermem.o
